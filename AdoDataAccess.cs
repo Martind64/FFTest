@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Configuration;
 
-namespace OpretBruger
+namespace FFTest
 {
     public static class AdoDataAccess
     {
